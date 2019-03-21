@@ -1,0 +1,8 @@
+Opened account 0 with name Joey
+Opened account 1 with name Mikey
+Opened account 2 with name Adam
+Deposited $250.0 to account 0
+Account 0 bought an item with checking worth $250.0
+Account 1 bought an item with credit worth $300.0
+Account 1 paid $150.0 towards there debt
+Account 3 does not exist

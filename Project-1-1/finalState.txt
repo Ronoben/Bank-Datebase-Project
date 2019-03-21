@@ -1,0 +1,3 @@
+Name: Joey | Account number: 0 | Amount: 500.0 | Checking account number: 100
+Name: Mikey | Account number: 1 | Debt: 150.0 | Credit account number: 200
+Name: Adam | Account number: 2 | Amount: 1000.0 | Checking account number: 101
